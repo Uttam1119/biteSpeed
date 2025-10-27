@@ -12,7 +12,6 @@ This is a **Node.js + TypeScript backend** for the BiteSpeed Identity Reconcilia
 - [Database](#database)
 - [API](#api)
 - [Project Structure](#project-structure)
-- [License](#license)
 
 ---
 
